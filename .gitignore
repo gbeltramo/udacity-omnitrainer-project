@@ -1,0 +1,10 @@
+*.log
+*.db
+*~
+
+/dist/
+/build/
+/.venv/
+__pycache__/
+multimodal_moderation.egg-info/
+/uploaded_media/
