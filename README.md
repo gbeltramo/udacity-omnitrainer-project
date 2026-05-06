@@ -1,4 +1,6 @@
-# Overview
+# Udacity: Multimodal Customer Service Training Agent
+
+Capstone project for the "Udacity: Multimodal AI Application" course
 
 ![app](omnitrainer_app.png)
 
